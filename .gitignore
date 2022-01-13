@@ -1,4 +1,5 @@
 /rs-phash/target
+/rs-hamming/target
 Cargo.lock
 .vscode
 
